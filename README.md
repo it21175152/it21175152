@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**it21175152/it21175152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I
 
-Here are some ideas to get you started:
+I am a student with a passion for IT and design. I want to use technology and design to make new things that make everyone's lives better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+- LinkedIn - [**in/HasithaPeiris**](https://www.linkedin.com/in/hasithapeiris)
+- HackerRank - [**@HasithaPeiris**](https://www.hackerrank.com/HasithaPeiris)
+- Replit - [**@HasithaPeiris**](https://replit.com/@HasithaPeiris)
+- Reddit - [**u/HasithaPeiris**](https://www.reddit.com/user/HasithaPeiris)
+- Medium - [**@HasithaPeiris**](https://medium.com/@HasithaPeiris)
+
+## Technology usage
+
+![Progress](https://progress-bar.dev/75/?title=HTML)
+![Progress](https://progress-bar.dev/75/?title=CSS)
+![Progress](https://progress-bar.dev/75/?title=JavaScript)
+![Progress](https://progress-bar.dev/30/?title=Python)
+![Progress](https://progress-bar.dev/30/?title=Java)
